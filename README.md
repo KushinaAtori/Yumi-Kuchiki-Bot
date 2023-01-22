@@ -24,10 +24,10 @@ Make sure you have these dependencies:
 
  
 
- - [ ] `discordjs`
- - [ ] `axios`
- - [ ] `chalk`
- - [ ] `discord-api-types`
- - [ ] `discord.js-pagination`
- - [ ] `dotenv`
- - [ ] `pagination.djs`
+ - `discordjs`
+ -  `axios`
+ - `chalk`
+ - `discord-api-types`
+ - `discord.js-pagination`
+ - `dotenv`
+ - `pagination.djs`
