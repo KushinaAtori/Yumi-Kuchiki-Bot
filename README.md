@@ -2,7 +2,7 @@
 
 Yumi Kuchiki Bot is an open-source bot that runs on `discordJS`. This bot is currently to help me understand `JSON`, `Libs`, and `Frameworks`.
 
-Originally this bot was for normal commands. However, with Discord switching to `Slash Commands` I think it was time to finally take the initiative and learn while also showing off my skills and word.
+Originally this bot was for normal commands. However, with Discord switching to `Slash Commands` I think it was time to finally take the initiative and learn while also showing off my skills and work.
 
 I have always been fond of the idea `Open-Source` and I am glad that it is possible to wright & publish code for free with no restrictions.
 
