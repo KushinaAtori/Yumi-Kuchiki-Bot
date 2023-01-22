@@ -1,3 +1,4 @@
+
 # Yumi Kuchiki Bot
 
 Yumi Kuchiki Bot is an open-source bot that runs on `discordJS`. This bot is currently to help me understand `JSON`, `Libs`, and `Frameworks`.
@@ -14,3 +15,19 @@ Then find the `.env` file and replace the string with your bot application token
 You will need to change a couple lines of text in the program for `clientId` and `guildId`. For these you must have `Developer Mode` on and right click the bot and `Copy ID` and do the same to the guild and `Copy ID`.
 
 Now everything should be done. You can add commands or delete them and change the bot to accept both `slash` and `prefix` commands in the `bot.js` file.
+
+# Post-Install
+
+You need to run `npm init -y` so you can have your `node_modules`.
+
+Make sure you have these dependencies:
+
+ 
+
+ - [ ] `discordjs`
+ - [ ] `axios`
+ - [ ] `chalk`
+ - [ ] `discord-api-types`
+ - [ ] `discord.js-pagination`
+ - [ ] `dotenv`
+ - [ ] `pagination.djs`
